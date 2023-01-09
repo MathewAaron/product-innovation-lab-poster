@@ -1,2 +1,2 @@
 # product-innovation-lab-poster
-![Employee data](kitchen-final-poster.pdf "Poster Image")
+![Image](kitchen-final-poster.png?raw=true)
